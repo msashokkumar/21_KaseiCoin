@@ -56,7 +56,7 @@ This version of the software is operating system agnostic.
 ![Account_Balance](./media/images/09_Account_Showing_Deployed_KC.png)
 
 10. Detailed demo is available in the following video:
-![Kasei_Coin_Demo](./media/videos/01_Crowdsale_Demo_480p.mov)
+![Kasei_Coin_Demo](./media/videos/01_Crowdsale_Demo_480p.gif)
 
 ---
 ## Contributors
