@@ -34,17 +34,29 @@ This version of the software is operating system agnostic.
 2. Deploy the `KaseiCoinCrowdsale` from RemixIDE.
 ![Kasei_Coin_Crowdsale_Compiled](./media/images/02_KaseiCoin_Crowdsale_Compiled.png)
 
-3. Remix, MetaMax and Ganache contract interactions are shown in the following demo:
-![Kasei_Coin_Demo](./media/videos/01_Crowdsale_Demo.mov)
+3. Create a new Ganache workspace for the project.
+![Ganache_Workspace](./media/images/03_Ganache_Workspace.png)
 
-4. Transactions showing up in Ganche.
-![Transactions](./media/images/03_Ganache_Transactions.png)
+4. Add a new network to Metamask.
+![Add_Metamask_Network](./media/images/04_Metamask_Add_Network.png)
 
-5. Account_3 Balance.
-![Account_3_Balance](./media/images/04_Account3_Account_Balance.png)
+5. Connect Remix with Metamask and Ganache.
+![Remix_Metamask_Ganache](./media/images/05_Connect_Remix_Metamask.png)
 
-6. Account_4 Balance.
-![Account_4_Balance](./media/images/05_Account4_Account_Balance.png)
+6. Deploy the contract.
+![Deploy_Contract](./media/images/06_Deploy_Contract.png)
+
+7. View the deployed Contract.
+![Kasei_Coin_Crowdsale_Compiled](./media/images/07_Deployed_Contract.png)
+
+8. View the transaction in Ganache.
+![Blocks_Transactions](./media/images/08_Blocks_Transactions.png)
+
+9. Verify accounts to view the transferred Kasei coins.
+![Account_Balance](./media/images/09_Account_Showing_Deployed_KC.png)
+
+10. Detailed demo is available in the following video:
+![Kasei_Coin_Demo](./media/videos/01_Crowdsale_Demo_480p.mov)
 
 ---
 ## Contributors
